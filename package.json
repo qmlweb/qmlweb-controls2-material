@@ -1,0 +1,14 @@
+{
+  "name": "qmlweb-controls2-material",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "gulp-qmlweb": "file:../gulp-qmlweb",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1"
+  }
+}

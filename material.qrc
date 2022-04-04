@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>background/Popup.qml</file>
+    <file>background/Button.qml</file>
+    <file>background/ScrollBar.qml</file>
+    <file>content/Button.qml</file>
+    <file>content/ScrollBar.qml</file>
+  </qresource>
+</RCC>
