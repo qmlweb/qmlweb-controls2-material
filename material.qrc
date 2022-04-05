@@ -3,7 +3,10 @@
     <file>background/Popup.qml</file>
     <file>background/Button.qml</file>
     <file>background/ScrollBar.qml</file>
+    <file>background/MenuBar.qml</file>
     <file>content/Button.qml</file>
     <file>content/ScrollBar.qml</file>
+    <file>delegate/MenuBar.qml</file>
+    <file>components/RippleEffect.qml</file>
   </qresource>
 </RCC>
